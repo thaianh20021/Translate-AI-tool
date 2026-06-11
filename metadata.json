@@ -1,0 +1,6 @@
+{
+  "name": "DocTrans AI",
+  "description": "Dịch thuật tài liệu PDF, Word, PPTX đa ngôn ngữ với độ chính xác cao sử dụng Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
