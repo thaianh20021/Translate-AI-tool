@@ -30,9 +30,9 @@ Tạo file `.env` từ `.env.example`, rồi điền key cần dùng:
 ```env
 NINEROUTER_BASE_URL="https://your-router-url/v1"
 NINEROUTER_MODEL="cx/gpt-5.5"
-NINEROUTER_API_KEY="YOUR_9ROUTER_API_KEY"
+NINEROUTER_API_KEY=""
 
-GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
+GEMINI_API_KEY=""
 APP_URL="http://localhost:3000"
 ```
 
